@@ -1,0 +1,112 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: 'Open Sans'; 
+}
+
+ /* TopBar */
+.topbar{
+    background-color: #333;
+    height: 50px;
+}
+
+.topbarlaranja{
+    background-color: #fd8a24;
+    height: 5px;
+}
+
+.topbar-h1{
+    padding-top: 5px;
+    margin: 0;
+    text-align: center;
+    color: white;
+    font-size: 25px;
+}
+
+ /* Header */
+
+.header{
+    max-width: 888px;
+    margin: auto;
+    padding-top: 0px;
+}
+
+.icones{
+    width: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+#headerh1{
+    font-size: 50px;
+    font-weight: 700;
+    padding-top: 0;
+    padding-bottom: 0;
+    text-align: left;
+}
+
+#headerh2{
+    font-size: 20px;
+    font-weight: 600;
+    color: #333;
+}
+
+#autor{
+    color: #555;
+    font-weight: 700;
+    font-size: 14px;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+#data{
+    color: #333;
+    font-weight: 500;
+}
+
+/* Container */
+
+.container{
+    max-width: 600px;
+    margin: auto;
+    padding-top: 10px;
+    padding-bottom: 15px;
+    font-size: 18px;
+    color: #555;
+}
+
+.link{
+    color: #fd8a24;
+    font-weight: 800;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.link1{
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+
+.imagems{
+    margin-top: 10px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+#imagem-moeda{
+    padding-top: 10px;
+    width: 600px;
+}
+
+#imagem-geladeira{
+    padding-top: 20px;
+    width: 600px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+.Titulo{
+    color: black;
+    margin-left: 5px;
+    font-size: 30px;
+}
